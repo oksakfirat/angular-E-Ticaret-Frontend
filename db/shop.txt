@@ -1,0 +1,8 @@
+{
+"products":[
+{"id":1, "name":"Laptop","pirce":25000,"categoryId":1,"description":"Asus zenBook","imageUrl":"https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.trendyol.com%2Flaptop-x-c103108&psig=AOvVaw15IJxbHh8K9lUhdLcqyGEO&ust=1677870052917000&source=images&cd=vfe&ved=0CA0QjRxqFwoTCJCD_Jj3vf0CFQAAAAAdAAAAABAD"}
+]
+"categories":[
+	{"id":1,"name":"Bilgisayar"},
+	{"id":1,"name":"Elektronik"}]
+}

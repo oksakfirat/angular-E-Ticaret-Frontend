@@ -1,0 +1,114 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "Laptop",
+      "pirce": 25000,
+      "categoryId": 1,
+      "description": "Asus zenBook",
+      "imageUrl": "https://cdn.dsmcdn.com/ty596/product/media/images/20221109/18/210958980/618235279/1/1_org_zoom.jpg"
+    },
+    {
+      "id": 2,
+      "name": "Laptop",
+      "pirce": 25000,
+      "categoryId": 2,
+      "description": "Asus zenBook",
+      "imageUrl": "https://cdn.dsmcdn.com/ty596/product/media/images/20221109/18/210958980/618235279/1/1_org_zoom.jpg"
+    },
+    {
+      "id": 3,
+      "name": "İphone",
+      "pirce": 25000,
+      "categoryId": 2,
+      "description": "İphone 11",
+      "imageUrl": "https://img-trendyol.mncdn.com/mnresize/400/-/ty439/product/media/images/20220526/14/116422547/250485278/1/1_org_zoom.jpg"
+    },
+    {
+      "id": 4,
+      "name": "Televizyon",
+      "pirce": 25000,
+      "categoryId": 4,
+      "description": "Göz alıcı görüntü kalitesi mükemmel",
+      "imageUrl": "https://cdn.akakce.com/z/profilo/profilo-32pa200e-hd-32-82-ekran-uydu-alicili-led-televizyon-1.jpg"
+    },
+    {
+      "id": 5,
+      "name": "Laptop",
+      "pirce": 25000,
+      "categoryId": 3,
+      "description": "Asus zenBook",
+      "imageUrl": "https://cdn.dsmcdn.com/ty596/product/media/images/20221109/18/210958980/618235279/1/1_org_zoom.jpg"
+    },
+    {
+      "id": 5,
+      "name": "Laptop",
+      "pirce": 25000,
+      "categoryId": 3,
+      "description": "Asus zenBook",
+      "imageUrl": "https://cdn.dsmcdn.com/ty596/product/media/images/20221109/18/210958980/618235279/1/1_org_zoom.jpg"
+    },
+    {
+      "name": "Samsung s22",
+      "description": "yeni tasarımı göz kamaştıran",
+      "imageUrl": "https://cdn.akakce.com/z/samsung/samsung-galaxy-s22-ultra-5g.jpg",
+      "price": "20000",
+      "categoryId": "3",
+      "id": 6
+    },
+    {
+      "name": "Huawei p50 pro",
+      "description": "harika",
+      "imageUrl": "data:image/jpeg;base64,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",
+      "price": "15000",
+      "categoryId": "3",
+      "id": 7
+    },
+    {
+      "name": "TürkTelekom",
+      "description": "modem",
+      "imageUrl": "https://cdn03.ciceksepeti.com/cicek/kcm39236536-1/XL/tp-link-td-w9970-vdsl2adsl2-fiber-300mbps-kablosuz-modem-kcm39236536-1-8d9fcdf16650430b87e94228f9379afd.jpg",
+      "price": "1000",
+      "categoryId": "Modem",
+      "id": 8
+    },
+    {
+      "name": "Tenda",
+      "description": "modem",
+      "imageUrl": "https://images.hepsiburada.net/assets/Bilgisayar/ProductDesc/imgd305_2.jpg",
+      "price": "500",
+      "categoryId": "5",
+      "id": 9
+    },
+    {
+      "name": "Tp-link",
+      "description": "modem",
+      "imageUrl": "https://cdn.vatanbilgisayar.com/Upload/PRODUCT/tp-link/thumb/TeoriV2-108802_small.jpg",
+      "price": "200",
+      "categoryId": "Modem",
+      "id": 10
+    }
+  ],
+  "categories": [
+    {
+      "id": 1,
+      "name": "Bilgisayar"
+    },
+    {
+      "id": 2,
+      "name": "Elektronik"
+    },
+    {
+      "id": 3,
+      "name": "Telefon"
+    },
+    {
+      "id": 4,
+      "name": "Televizyon"
+    },
+    {
+      "id": 5,
+      "name": "Modem"
+    }
+  ]
+}

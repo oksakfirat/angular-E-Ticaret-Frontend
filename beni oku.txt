@@ -1,0 +1,6 @@
+önce db klasöründeki shop.json dosyasını çalıştır.
+çalıştırmak için komut satırını aç dosyanın bulunduğu klasöre gir şunları yaz:
+json-server --watch shop.json
+ondan sonra dosyanı visual studio code aç 
+projeyi çalıştırmak  için yeni terminal aç şu komutu yaz:
+ng serve 
